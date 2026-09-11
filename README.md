@@ -24,9 +24,3 @@ Statistics & Actuarial Science student at the **University of Illinois Urbana-Ch
 | **Python / Data** | pandas · NumPy · scikit-learn · TensorFlow · GeoPandas |
 | **Analytics / BI** | Tableau · Power BI · Excel · VBA |
 | **Engineering** | Git · GitHub · Docker · AWS · React · TypeScript |
-
----
-
-## What I Care About
-
-I am especially interested in projects where rigorous statistical reasoning and practical implementation meet: defining the right target, preventing leakage, choosing evaluation metrics that match the problem, and communicating results clearly enough to support decisions.
