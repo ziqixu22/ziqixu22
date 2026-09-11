@@ -2,8 +2,6 @@
 
 Statistics & Actuarial Science student at the University of Illinois Urbana-Champaign, building quantitative and machine learning projects across finance, recommendation systems, and applied statistics.
 
-I’m especially interested in research problems where careful modeling, reproducible experiments, and practical implementation come together.
-
 [Portfolio](https://ziqixu22.github.io/ziqi-personal-website/) · [LinkedIn](https://www.linkedin.com/in/ziqi12) · [GitHub](https://github.com/ziqixu22)
 
 ---
