@@ -1,8 +1,29 @@
-# Hi, I'm Ziqi(Zoe) Xu 👋
+# Hi, I'm Ziqi (Zoe) Xu 👋
 
-Statistics & Actuarial Science student at the University of Illinois Urbana-Champaign, building quantitative and machine learning projects across finance, recommendation systems, and statistical modeling.
+Statistics & Actuarial Science student at the University of Illinois Urbana-Champaign, building quantitative and machine learning projects across finance, recommendation systems, and applied statistics.
+
+I’m especially interested in research problems where careful modeling, reproducible experiments, and practical implementation come together.
 
 [Portfolio](https://ziqixu22.github.io/ziqi-personal-website/) · [LinkedIn](https://www.linkedin.com/in/ziqi12) · [GitHub](https://github.com/ziqixu22)
+
+---
+
+## Featured Work
+
+- **[U.S. Equity Cross-Sectional Research](https://github.com/ziqixu22/us-equity-cross-sectional-research)** — leakage-aware factor research, machine learning, Rank IC, and long-short portfolio evaluation.
+- **[Search · Ads · Recommendation Portfolio](https://github.com/Ricky-S-Gong/search-rec-ads-portfolio)** — collaborative portfolio of reproducible case studies spanning recommendation, ranking, and advertising systems.
+- **[Reaction-Time Statistical Modeling](https://github.com/ziqixu22/reaction-time-statistical-modeling)** — hypothesis testing, multiple regression, model selection, diagnostics, and Box-Cox transformation.
+- **[ZRX/USD Time-Series Analysis](https://github.com/ziqixu22/zrx-usd-time-series-analysis)** — regression with ARIMA errors, stationarity analysis, residual diagnostics, and forecasting.
+- **[Math Department Deep Structure Research](https://github.com/ziqixu22/math-deep-structure-research)** — spectral clustering, SVD, hierarchical tree construction, and graph-based similarity analysis.
+
+---
+
+## Research & Engineering Interests
+
+- Quantitative research and financial modeling
+- Search, recommendation, and ranking systems
+- Statistical learning and time-series analysis
+- Reproducible experimentation and model evaluation
 
 ---
 
