@@ -15,25 +15,6 @@ Statistics & Actuarial Science student at the **University of Illinois Urbana-Ch
 
 ---
 
-## Selected Work
-
-### 📈 [U.S. Equity Cross-Sectional Research](https://github.com/ziqixu22/us-equity-cross-sectional-research)
-Research framework for cross-sectional return prediction using factor signals, machine-learning models, chronological validation, Rank IC, and long-short portfolio evaluation.
-
-### 🔎 [Search · Ads · Recommendation Portfolio](https://github.com/Ricky-S-Gong/search-rec-ads-portfolio)
-Collaborative portfolio exploring modern search, recommendation, and advertising algorithms through reproducible mini-projects and an interactive website.
-
-### 📊 [Reaction-Time Statistical Modeling](https://github.com/ziqixu22/reaction-time-statistical-modeling)
-Behavioral-data analysis using hypothesis testing, multiple regression, model selection, diagnostics, Box-Cox transformation, and interpretation.
-
-### ⏱️ [ZRX/USD Time-Series Analysis](https://github.com/ziqixu22/zrx-usd-time-series-analysis)
-Financial time-series project combining regression, stationarity analysis, ARIMA error modeling, residual diagnostics, AIC/BIC comparison, and forecasting.
-
-### 🧮 [Math Department Deep Structure Research](https://github.com/ziqixu22/math-deep-structure-research)
-Collaborative research on latent academic structure using spectral clustering, SVD, hierarchical tree construction, graph-based similarity, and tree-space methods.
-
----
-
 ## Technical Toolkit
 
 | Area | Tools & Methods |
