@@ -1,4 +1,4 @@
-# Hi, I'm Ziqi Xu 👋
+# Hi, I'm Ziqi(Zoe) Xu 👋
 
 Statistics & Actuarial Science student at the University of Illinois Urbana-Champaign, building quantitative and machine learning projects across finance, recommendation systems, and statistical modeling.
 
