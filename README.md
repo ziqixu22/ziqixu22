@@ -1,6 +1,6 @@
 # Hi, I'm Ziqi Xu 👋
 
-Statistics & Actuarial Science student at the **University of Illinois Urbana-Champaign**, interested in **quantitative research, machine learning, statistical modeling, and data-driven decision making**.
+Statistics & Actuarial Science student at the University of Illinois Urbana-Champaign, building quantitative and machine learning projects across finance, recommendation systems, and statistical modeling.
 
 [Portfolio](https://ziqixu22.github.io/ziqi-personal-website/) · [LinkedIn](https://www.linkedin.com/in/ziqi12) · [GitHub](https://github.com/ziqixu22)
 
