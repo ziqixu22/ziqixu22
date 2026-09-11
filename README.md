@@ -2,8 +2,6 @@
 
 Statistics & Actuarial Science student at the **University of Illinois Urbana-Champaign**, interested in **quantitative research, machine learning, statistical modeling, and data-driven decision making**.
 
-I enjoy turning real-world data into reproducible analytical workflows, comparing models carefully, and understanding *why* a method works—not just whether it produces a good metric.
-
 [Portfolio](https://ziqixu22.github.io/ziqi-personal-website/) · [LinkedIn](https://www.linkedin.com/in/ziqi12) · [GitHub](https://github.com/ziqixu22)
 
 ---
