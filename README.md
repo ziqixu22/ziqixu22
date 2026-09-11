@@ -6,15 +6,6 @@ Statistics & Actuarial Science student at the University of Illinois Urbana-Cham
 
 ---
 
-## Current Focus
-
-- **Quantitative research** — cross-sectional equity signals, leakage-aware validation, portfolio construction, and robustness analysis
-- **Search · Recommendation · Ads** — collaborative, code-driven case studies covering recommendation and ranking algorithms
-- **Statistical modeling** — regression, model selection, diagnostics, hypothesis testing, and time-series methods
-- **Research engineering** — reproducible experiments, clear evaluation, and maintainable analytical pipelines
-
----
-
 ## Technical Toolkit
 
 | Area | Tools & Methods |
