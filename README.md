@@ -8,11 +8,11 @@ Statistics & Actuarial Science student at the University of Illinois Urbana-Cham
 
 ## Featured Work
 
-- **[U.S. Equity Cross-Sectional Research](https://github.com/ziqixu22/us-equity-cross-sectional-research)** — leakage-aware factor research, machine learning, Rank IC, and long-short portfolio evaluation.
-- **[Search · Ads · Recommendation Portfolio](https://github.com/Ricky-S-Gong/search-rec-ads-portfolio)** — collaborative portfolio of reproducible case studies spanning recommendation, ranking, and advertising systems.
-- **[Reaction-Time Statistical Modeling](https://github.com/ziqixu22/reaction-time-statistical-modeling)** — hypothesis testing, multiple regression, model selection, diagnostics, and Box-Cox transformation.
-- **[ZRX/USD Time-Series Analysis](https://github.com/ziqixu22/zrx-usd-time-series-analysis)** — regression with ARIMA errors, stationarity analysis, residual diagnostics, and forecasting.
-- **[Math Department Deep Structure Research](https://github.com/ziqixu22/math-deep-structure-research)** — spectral clustering, SVD, hierarchical tree construction, and graph-based similarity analysis.
+- **[E-commerce Product Analytics & Experimentation](https://github.com/ziqixu22/ecommerce-product-analytics-experimentation)** — analyzed 1.07M retail transactions and 13.98M randomized observations with SQL/Python; measured retention, treatment lift, power, and experiment validity to support product decisions.
+- **[Production Fraud Risk Decision System](https://github.com/ziqixu22/production-fraud-risk-decision-system)** — built a temporal, cost-sensitive fraud decision pipeline with LightGBM, probability calibration, approve/review/decline thresholds, FastAPI, Docker, and drift monitoring.
+- **[LLM Evaluation & Release Platform](https://github.com/ziqixu22/llm-evaluation-release-platform)** — evaluates model releases through human-preference alignment, judge reliability, risk/failure slices, cost-quality routing, and explicit release gates.
+- **[U.S. Equity Cross-Sectional Research](https://github.com/ziqixu22/us-equity-cross-sectional-research)** — point-in-time factor-research infrastructure with leakage controls, filing-level fundamental lineage, Rank IC design, and transaction-cost-aware portfolio evaluation.
+- **[Search · Ads · Recommendation Portfolio](https://github.com/Ricky-S-Gong/search-rec-ads-portfolio)** — reproducible recommendation and ranking case studies, spanning retrieval, collaborative filtering, evaluation metrics, and product-facing experimentation.
 
 ---
 
