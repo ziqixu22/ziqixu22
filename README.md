@@ -1,36 +1,43 @@
-# Hi, I'm Ziqi (Zoe) Xu 👋
+# Ziqi (Zoe) Xu
 
-Statistics & Actuarial Science student at the University of Illinois Urbana-Champaign, building quantitative and machine learning projects across finance, recommendation systems, and applied statistics.
+**Data Scientist / Quantitative Analyst** building decision-focused ML and experimentation systems.
 
-[Portfolio](https://ziqixu22.github.io/ziqi-personal-website/) · [LinkedIn](https://www.linkedin.com/in/ziqi12) · [GitHub](https://github.com/ziqixu22)
+I am a Statistics & Actuarial Science senior at the University of Illinois Urbana-Champaign (expected Dec 2026), with actuarial pricing experience at Chubb. My work connects rigorous statistical reasoning with production-minded implementation: reproducible pipelines, leakage-safe validation, decision metrics, and clear limits on what results do—and do not—show.
 
----
+[Portfolio](https://ziqixu22.github.io/ziqi-personal-website/) · [LinkedIn](https://www.linkedin.com/in/ziqi12) · [Email](mailto:xuziqi2003@gmail.com)
 
-## Featured Work
+## Start here
 
-- **[U.S. Equity Cross-Sectional Research](https://github.com/ziqixu22/us-equity-cross-sectional-research)** — leakage-aware factor research, machine learning, Rank IC, and long-short portfolio evaluation.
-- **[Search · Ads · Recommendation Portfolio](https://github.com/Ricky-S-Gong/search-rec-ads-portfolio)** — collaborative portfolio of reproducible case studies spanning recommendation, ranking, and advertising systems.
-- **[Reaction-Time Statistical Modeling](https://github.com/ziqixu22/reaction-time-statistical-modeling)** — hypothesis testing, multiple regression, model selection, diagnostics, and Box-Cox transformation.
-- **[ZRX/USD Time-Series Analysis](https://github.com/ziqixu22/zrx-usd-time-series-analysis)** — regression with ARIMA errors, stationarity analysis, residual diagnostics, and forecasting.
-- **[Math Department Deep Structure Research](https://github.com/ziqixu22/math-deep-structure-research)** — spectral clustering, SVD, hierarchical tree construction, and graph-based similarity analysis.
+| Focus | Project | What it demonstrates |
+| --- | --- | --- |
+| Product & experimentation | [E-commerce Product Analytics & Experimentation](https://github.com/ziqixu22/ecommerce-product-analytics-experimentation) | SQL/Python analytics on 1.07M retail transactions; cohort/retention analysis; randomized uplift measurement, experiment QA, power, and decision framing. |
+| ML & risk systems | [Production Fraud Risk Decision System](https://github.com/ziqixu22/production-fraud-risk-decision-system) | Temporal validation, LightGBM, calibration, cost-sensitive thresholds, approve/review/decline policy, API, Docker, and monitoring. |
+| Applied AI evaluation | [LLM Evaluation & Release Platform](https://github.com/ziqixu22/llm-evaluation-release-platform) | Human-preference alignment, judge reliability, failure slices, cost/quality routing, and release gates—not just a chatbot demo. |
+| Quant research | [U.S. Equity Cross-Sectional Research](https://github.com/ziqixu22/us-equity-cross-sectional-research) | Point-in-time data design, leakage controls, factor research, Rank IC, and transaction-cost-aware portfolio evaluation. |
+| NLP decisioning | [Customer Support Intent Routing](https://github.com/ziqixu22/nlp-customer-support-intent-routing) | Baseline-to-Transformer comparison, calibration, class-level error analysis, and confidence-based human escalation. |
 
----
+## How I build
 
-## Research & Engineering Interests
+`Business question → data contract → baseline → validation → decision metric → failure analysis → reproducible artifact`
 
-- Quantitative research and financial modeling
-- Search, recommendation, and ranking systems
-- Statistical learning and time-series analysis
-- Reproducible experimentation and model evaluation
+I favor projects where model quality is only one part of the answer. A result must also survive the timing assumptions, operating constraints, and business trade-offs that would matter in practice.
 
----
+## Core toolkit
 
-## Tech Stack
+**Data & modeling:** Python, SQL, pandas, NumPy, scikit-learn, LightGBM, statistical inference, causal experimentation, time series  
+**Engineering:** Git/GitHub, pytest, GitHub Actions, FastAPI, Docker, configuration-driven pipelines  
+**Analytics:** cohort and retention analysis, A/B testing, GLMs, dashboards, Tableau, Power BI
 
-| Area | Tools & Methods |
-| --- | --- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![C/C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) |
-| **AI & ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-4B8BBE?logo=google&logoColor=white) |
-| **Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=white) |
-| **Data & Cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) |
-| **Visualization** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoftexcel&logoColor=white) |
+## Recruiter notes
+
+- Each flagship repository includes a business problem, data provenance, methods, metrics, limitations, and reproduction instructions.
+- I do not present unverified backtests, vendor data, or hypothetical cost savings as real-world outcomes.
+- I am actively preparing for Data Science, Product Analytics, ML/Risk, and quantitative research roles.
+
+## Selected earlier work
+
+- [Search · Ads · Recommendation Portfolio](https://github.com/Ricky-S-Gong/search-rec-ads-portfolio) — reproducible ranking and recommendation case studies.
+- [Reaction-Time Statistical Modeling](https://github.com/ziqixu22/reaction-time-statistical-modeling) — regression, diagnostics, and model selection.
+- [Tableau Analytics Portfolio](https://github.com/ziqixu22/tableau-analytics-portfolio) — applied dashboarding and storytelling.
+
+*For a project walkthrough, start with the repository README, then `RESULTS.md` / `docs/interview_guide.md` where available.*
