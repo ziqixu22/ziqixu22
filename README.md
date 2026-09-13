@@ -40,4 +40,4 @@ I favor projects where model quality is only one part of the answer. A result mu
 - [Reaction-Time Statistical Modeling](https://github.com/ziqixu22/reaction-time-statistical-modeling) — regression, diagnostics, and model selection.
 - [Tableau Analytics Portfolio](https://github.com/ziqixu22/tableau-analytics-portfolio) — applied dashboarding and storytelling.
 
-*For a project walkthrough, start with the repository README, then `RESULTS.md` / `docs/interview_guide.md` where available.*
+*For a project walkthrough, start with the repository README, then `RESULTS.md` / `docs/interview_guide.md` where available. The [project learning plan](PROJECT_LEARNING_PLAN.md) is my interview-prep path.*
